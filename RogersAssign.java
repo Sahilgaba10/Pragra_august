@@ -41,7 +41,7 @@ public class RogersAssign {
                  }
                  int option = scanner.nextInt();
                  if (option == 1){
-                     System.out.println("We will forward your call to customer service representative");
+                     System.out.println("We will forward your call to customer service representative.");
 
                  } else if (option == 2){
                      System.out.println("We will forward your call to customer service representative");

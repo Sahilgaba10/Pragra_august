@@ -44,7 +44,7 @@ public class RogersAssign {
                      System.out.println("We will forward your call to customer service representative.");
 
                  } else if (option == 2){
-                     System.out.println("We will forward your call to customer service representative");
+                     System.out.println("We will forward your call to customer service representative.");
 
                  }
                 }

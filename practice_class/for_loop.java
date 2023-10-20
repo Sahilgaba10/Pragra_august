@@ -1,8 +1,4 @@
-package Practice_class;
-
-import javax.sql.rowset.FilteredRowSet;
-import java.util.Formattable;
-import java.util.Scanner;
+package practice_class;
 
 public class for_loop {
     public static void main(String[] args) {

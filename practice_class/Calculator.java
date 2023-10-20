@@ -1,4 +1,4 @@
-package Practice_class;
+package practice_class;
 
 public class Calculator {
     public int subtraction(int num1, int num2){ // 20 and 10

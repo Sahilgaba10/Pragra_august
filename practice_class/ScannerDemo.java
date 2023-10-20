@@ -1,7 +1,5 @@
-package Practice_class;
+package practice_class;
 
-import javax.sound.midi.Soundbank;
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class ScannerDemo {

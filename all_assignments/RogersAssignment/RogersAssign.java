@@ -1,3 +1,5 @@
+package all_assignments;
+
 import java.util.Scanner;
 
 public class RogersAssign {

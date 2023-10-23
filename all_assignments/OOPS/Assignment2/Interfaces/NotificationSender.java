@@ -8,7 +8,7 @@ public class NotificationSender {
     public static void main(String [] agrs){
 
         EmaiNotificationSender email = new EmaiNotificationSender();
-        email.settingRecipients();
+        email.settingRecipients("abc10@gmail.com");
         email.emailNotifications();
 
         SmsNotificationSender sms = new SmsNotificationSender();

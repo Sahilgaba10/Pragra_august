@@ -6,9 +6,10 @@ public class EmaiNotificationSender implements EmailNotification {
 
 
     @Override
-    public void settingRecipients() {
+    public void settingRecipients(String recipient) {
         System.out.println("Email Notification: ");
-        System.out.println("abc10@gmail.com");
+        System.out.println(recipient);
+
     }
 
     @Override

@@ -1,4 +1,4 @@
-package all_assignments;
+package all_assignments.BankingApp;
 
 import javax.swing.*;
 import java.util.Scanner;

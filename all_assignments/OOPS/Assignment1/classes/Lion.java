@@ -1,9 +1,10 @@
-package all_assignments.OOPS.Assignment1.Behaviour.Interface.classes;
+package all_assignments.OOPS.Assignment1.classes;
 
-import all_assignments.OOPS.Assignment1.Behaviour.Interface.Roar;
-import all_assignments.OOPS.Assignment1.Behaviour.Interface.Swimmable;
+import all_assignments.OOPS.Assignment1.Interface.Animal;
+import all_assignments.OOPS.Assignment1.Interface.Roar;
+import all_assignments.OOPS.Assignment1.Interface.Swimmable;
 
-public class Lion implements Swimmable.Animal, Roar {
+public class Lion implements Animal, Roar {
 
 
     @Override

@@ -1,9 +1,10 @@
-package all_assignments.OOPS.Assignment1.Behaviour.Interface.classes;
+package all_assignments.OOPS.Assignment1.classes;
 
-import all_assignments.OOPS.Assignment1.Behaviour.Interface.Climbable;
-import all_assignments.OOPS.Assignment1.Behaviour.Interface.Swimmable;
+import all_assignments.OOPS.Assignment1.Interface.Animal;
+import all_assignments.OOPS.Assignment1.Interface.Climbable;
+import all_assignments.OOPS.Assignment1.Interface.Swimmable;
 
-public class Monkey implements Swimmable.Animal, Climbable {
+public class Monkey implements Animal, Climbable {
 
     public void feed(){
         System.out.println("Monkey: ");

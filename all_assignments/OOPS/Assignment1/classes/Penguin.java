@@ -1,8 +1,9 @@
-package all_assignments.OOPS.Assignment1.Behaviour.Interface.classes;
+package all_assignments.OOPS.Assignment1.classes;
 
-import all_assignments.OOPS.Assignment1.Behaviour.Interface.Swimmable;
+import all_assignments.OOPS.Assignment1.Interface.Animal;
+import all_assignments.OOPS.Assignment1.Interface.Swimmable;
 
-public class Penguin implements Swimmable.Animal, Swimmable {
+public class Penguin implements Animal, Swimmable {
 
     public void feed(){
         System.out.println("Penguin: ");

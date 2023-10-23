@@ -1,4 +1,8 @@
-package all_assignments.OOPS.Assignment1.Behaviour.Interface.classes;
+package all_assignments.OOPS.Assignment1;
+
+import all_assignments.OOPS.Assignment1.classes.Lion;
+import all_assignments.OOPS.Assignment1.classes.Monkey;
+import all_assignments.OOPS.Assignment1.classes.Penguin;
 
 public class MainAnimal {
     public static void main(String[] args) {

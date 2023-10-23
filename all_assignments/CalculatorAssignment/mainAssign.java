@@ -1,4 +1,4 @@
-package all_assignments;
+package all_assignments.CalculatorAssignment;
 
 public class mainAssign {
 

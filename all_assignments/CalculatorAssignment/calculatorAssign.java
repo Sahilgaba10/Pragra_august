@@ -1,4 +1,4 @@
-package all_assignments;
+package all_assignments.CalculatorAssignment;
 
 import java.util.Scanner;
 
